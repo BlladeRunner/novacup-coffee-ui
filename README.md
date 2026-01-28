@@ -72,6 +72,6 @@ novacup-coffee-ui/
 * Introduce state management
 * Build analytics-ready UI components (tables, filters, charts)
 
-🔙 [Back to Portfolio](https://github.com/BlladeRunner)
-
 ⭐ *Focused on building clean UI, scalable components, and data-ready interfaces.*
+
+🔙 [Back to Portfolio](https://github.com/BlladeRunner)
